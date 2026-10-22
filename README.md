@@ -1249,4 +1249,5 @@ With NeetCode 75 completion and SAIR Jr. training, graduates demonstrate:
 **The world needs Sudanese ML talent. The time for preparation is now. Begin your journey today.**
 
 </div>#   p o w e r p l a n t - m l - p r o j e c t - 2 0 2 6  
+ #   F a t i m a _ p r o j e c t  
  
